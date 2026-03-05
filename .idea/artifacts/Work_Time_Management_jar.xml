@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Work_Time_Management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Work_Time_Management_jar</output-path>
+    <root id="archive" name="Work_Time_Management.jar">
+      <element id="module-output" name="Work_Time_Management" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/h2-2024-08-11/h2/bin/h2-2.3.232.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/jdk.jsobject.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/jfx.incubator.input.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/openjfx-24.0.2_windows-x64_bin-sdk/javafx-sdk-24.0.2/lib/jfx.incubator.richtext.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
